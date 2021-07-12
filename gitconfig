@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = uxd.jun@gmail.com
+	name = Jason Jun
